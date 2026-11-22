@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.base.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.media.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx.web.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\jdk.jsobject.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\jfx.incubator.input.jar",
+        "c:\\Users\\sekre\\Downloads\\javafx-sdk-25.0.5.1\\javafx-sdk-25.0.5.1\\lib\\jfx.incubator.richtext.jar"
+    ]
+}
